@@ -1,9 +1,9 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Server Ready - v19j13 ",
+"JSON_POPUP_WAIT" : "Server Ready - Wallpaper ",
 
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_BACKUP_ADS" : false,
 
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
@@ -23,14 +23,14 @@
 "INTERS_COUNT_WEB" : 5,
 
 "ENABLE_STRAP" : true,
-"ENABLE_STRAP_SPLAHSCREEN" : false,
+"ENABLE_STRAP_SPLAHSCREEN" : true,
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
-"STARAPPID" : "YOUR_APP_ID",
+"STARAPPID" : "209087565",
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
+"ADMOB_BANNER" : "ca-app-pub-9804721901768342/4942449961",
+"ADMOB_INTER" : "ca-app-pub-9804721901768342/8690123280",
+"ADMOB_NATIV" : "ca-app-pub-9804721901768342/2534094266",
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "inter",
@@ -78,10 +78,10 @@ I've tried
 try to download now too
 ",
 "MORE_BUTTON" : "SHARE VIA WHATSAPP",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.gevarieldev.godzillawallpaper",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.gevarieldev.squidapp",
 
 "REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.gevarieldev.godzillawallpaper"
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.gevarieldev.squidapp"
 
 
   }
