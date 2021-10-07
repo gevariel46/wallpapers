@@ -8,15 +8,15 @@
 "HOMEURL" : "https://squidgameapp.blogspot.com",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Server Ready . . . v20j14",
+"JSON_POPUP_WAIT" : "Server Ready . . . Guide",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=com.gevarieldev.squidappguide",
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : false,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -33,18 +33,18 @@
 "INTER_COUNT" : "20",
 
 "ENABLE_STRAP" : true,
-"ENABLE_STRAP_SPLAHSCREEN" : false,
+"ENABLE_STRAP_SPLAHSCREEN" : true,
 
 "ADS_ON_EXIT_DIALOG" : false, // WARNING - CTR MENINGKAT
 
 "MODE_OFFLINE_MP3" : false,
 "ENABLE_STICKY_NOTIFICATION" : true,
 
-"STARTAPPID" : "201365479",
+"STARTAPPID" : "209349500",
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
+"ADMOB_BANNER" : "ca-app-pub-9804721901768342/8113724001",
+"ADMOB_INTER" : "ca-app-pub-9804721901768342/5487560660",
+"ADMOB_NATIV" : "ca-app-pub-9804721901768342/6828562491",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -74,11 +74,11 @@
 "BUTTON_RATING" : "RATING NOW",
 
 "EXIT_POPUP_DIALOG" : "
-Agar Kami lebih semangat mengembangkan Aplikasi ini
+So that we are more enthusiastic about developing this application
 
-Bantu kami dengan rating bingtang 5 ya 
+Help us with a 5 star rating, okay?
 
-Klik tombol rating 
+Click the rating button
 ",
 "RATE_BUTTON" : "Rate 5 Stars",
 "LATER_BUTTON" : "Later",
@@ -94,7 +94,7 @@ i.ve download and so much happy
 "MORE_BUTTON" : "Share Via WhatsApp",
 // Jika share button TRUE maka tombol MORE berubah SHARE
 // isi url more apps jika ENABLE_SHARE_BUTTON  is false
-"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=devname"
+"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=com.gevarieldev.squidappguide"
 
  }
 }
